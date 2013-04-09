@@ -1,6 +1,6 @@
 # Install antigate client as submodule
 cd /path/to/project
-git submodule add git@github.com:s-larionov/yii-antigate.git protected/extensions/antigate
+git submodule add git://github.com/s-larionov/yii-antigate.git protected/extensions/antigate
 
 # Configure Antigate client
 add to application config settings for component:
